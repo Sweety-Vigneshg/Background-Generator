@@ -12,11 +12,11 @@ A simple web application that allows you to generate and customize gradient back
 
 ## Demo
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://sweety-vigneshg.github.io/Background-Generator/index.html).
 
 ## Screenshots
 
-![Background Generator Screenshot](#)
+![Background Generator Screenshot](https://github.com/Sweety-Vigneshg/Background-Generator/blob/main/screenshort.png)
 
 ## Usage
 
